@@ -103,16 +103,16 @@ int main(void)
 ```
 ## Output screen shots of proteus  :
 ## BUTTON OFF LED OFF CONDITION:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/blob/main/ex31.png?raw=true)
 
 ## BUTTON ON LED ON CONDITION
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/blob/main/ex32.png?raw=true)
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![output](?raw=true)
+ ![output](https://github.com/Saibandhavi75/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/blob/main/ex33.png?raw=true)
  
  
 ## Result :
